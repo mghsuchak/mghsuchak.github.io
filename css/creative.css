@@ -474,3 +474,11 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #222;
 }
+
+.yelp-review {
+    margin-top: 30px;
+}
+
+.yelp-cta {
+    margin-top: 30px;
+}
